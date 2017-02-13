@@ -1,0 +1,13 @@
+[SPIRIT_SECTION]
+url = https://www.spirit.com/
+from_to_airports = MSP-DFW
+from_to_dates = 02/24/2017-02/27/2017;03/03/2017-03/06/2017
+
+[SMS_SECTION]
+from_number = +11234567890
+to_number = +11234567890
+twilio_account_number = twilio_account_number
+twilio_account_token = twilio_account_token
+
+[SCHEDULE_SECTION]
+daily_schedule_hours = 8,11,14,17,20,22
